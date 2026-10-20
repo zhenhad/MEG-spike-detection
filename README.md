@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r"""# MEG Spike Detection with FAMED
+r"""# MEG Spike Detection with FAMED
 
 Replication and adaptation of the deep-learning MEG spike detection and segmentation framework described by **Hirano et al. (2022)** for a six-subject MEG dataset.
 
