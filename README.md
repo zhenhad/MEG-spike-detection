@@ -640,15 +640,6 @@ BCH001_classifier_ROC_PR.png
 BCH001_classifier_probability_overview.png
 BCH001_representative_examples.png
 ```
-
-If these figures are committed to GitHub, they can be displayed directly in the README:
-
-```markdown
-![BCH001 confusion matrix](FAMED_final_test_BCH001_CVensemble/presentation_figures/BCH001_classifier_confusion_matrix.png)
-
-![BCH001 representative predictions](FAMED_final_test_BCH001_CVensemble/presentation_figures/BCH001_representative_examples.png)
-```
-
 ---
 
 # Repository structure
